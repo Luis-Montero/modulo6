@@ -1,0 +1,58 @@
+{
+ "roommates": [
+  {
+   "id": "2575e553-afa5-453a-92dd-a41032aca77f",
+   "nombre": "Walter Willis",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "aa57c0f1-f125-499d-aef2-6292168546fb",
+   "nombre": "Terri Schmidt",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "06a357d4-2690-4328-a24f-d68642b442eb",
+   "nombre": "Massimiliano Roussel",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "5efbd953-ca8c-4957-9fd1-eeb1bace3d6b",
+   "nombre": "Tobias Stokstad",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "212251ef-1e31-43d7-ab9d-edf16bd1a67a",
+   "nombre": "Tomás Luna",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "6fbbd2e4-148a-42e5-a10a-d55a9fc42b4f",
+   "nombre": "Virgil Mccoy",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "6aa0faff-f3f0-42c6-b397-c52f1b2f26c7",
+   "nombre": "Ludmila Orlić",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "c5f9d9cc-c146-4dce-939b-10622723422e",
+   "nombre": "Sergio Gilbert",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "61ba58bc-891a-4d0c-a326-0817f5f236d7",
+   "nombre": "Edward Hughes",
+   "debe": "",
+   "recibe": ""
+  }
+ ]
+}

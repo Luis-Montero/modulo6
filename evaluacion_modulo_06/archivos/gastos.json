@@ -1,0 +1,40 @@
+{
+ "gastos": [
+  {
+   "roommate": "Massimiliano Roussel",
+   "descripcion": "Articulos de limpieza",
+   "monto": 3000,
+   "id": "d0c76aac-5efc-45b4-a91b-f4fd14166dfe"
+  },
+  {
+   "roommate": "Tobias Stokstad",
+   "descripcion": "Articulos de limpieza",
+   "monto": 4000,
+   "id": "c38069a0-1f65-4fc1-8033-66076b061761"
+  },
+  {
+   "id": "53ea3d34-4839-4b73-8f63-123aa300ac5f",
+   "roommate": "Tomás Luna",
+   "descripcion": "Articulos de limpieza",
+   "monto": 1000
+  },
+  {
+   "id": "20deab16-221a-44f1-99b4-5131bb51942f",
+   "roommate": "Walter Willis",
+   "descripcion": " Articulos de limpieza ",
+   "monto": 15000
+  },
+  {
+   "id": "3d231f71-b6e8-48f0-9175-28a0decec22f",
+   "roommate": "Terri Schmidt",
+   "descripcion": " Articulos de limpieza ",
+   "monto": 15000
+  },
+  {
+   "id": "b01cc0e1-b442-4783-ac13-8843ad9d520e",
+   "roommate": "Walter Willis",
+   "descripcion": " Articulos de limpieza ",
+   "monto": 15000
+  }
+ ]
+}
